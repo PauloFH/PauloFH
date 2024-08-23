@@ -1,6 +1,7 @@
 
-- 👀 I’m interested in digital security, but I am currently studying front-end and back-end to be able to move to this area in the future
-- 🌱 I’m currently learning Java, Python, JavaScript, HTML and CSS and Vue.JS
+- developer passionate about games and technology. With experience in various technologies and devices, I'm always looking to learn and apply new skills to challenging projects or make products for my own use. Outside of programming, I enjoy reading, listening to music and running. I'm always open to new opportunities and collaborations!
+  
+- Main technologies: Java desktop and web, Flutter, C++, swift and C# (.NET and unity games)
 
 <div align="center">
   <a href="https://github.com/PauloFH">
