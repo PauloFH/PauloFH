@@ -26,9 +26,9 @@
   <a href="https://www.linkedin.com/in/paulo-holanda-6b0347116/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PauloFH/PauloFH/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PauloFH/PauloFH/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/PauloFH/PauloFH/blob/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
