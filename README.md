@@ -14,11 +14,11 @@
   <img align="center" alt="Paulo-Csharp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg" >
   <img align="center" alt="Paulo-Unity" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" >
   <img align="center" alt="Paulo-godot" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg"  >
-  <img align="center" alt="Paulo-blazor" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg"  >
+  <img align="center" alt="Paulo-django" height="50" width="60" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"  >
   <img align="center" alt="Paulo-devops" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" >
   <img align="center" alt="Paulo-docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg"  >
   <img align="center" alt="Paulo-Java" height="50" width="60"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Paulo-Cplusplus" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Paulo-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
  
   
   ##
